@@ -174,3 +174,29 @@ Firebase             █████████████████░░�
 REST API             █████████████████░░░ 80%
 State Management     ██████████████░░░░░░ 70%
 Clean Architecture   █████████░░░░░░░░░░░ 50%
+
+---
+
+<h2 align="center">
+
+Thanks for visiting ❤️
+
+</h2>
+
+<p align="center">
+
+If you like my work,
+
+⭐ Star my repositories
+
+🤝 Connect with me on LinkedIn
+
+🎨 Check my Behance
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=120&section=footer"/>
+
+</p>
