@@ -30,7 +30,19 @@ Crafting beautiful digital experiences through clean code and creative design.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://behance.net/USERNAME">
+<a href="https://www.behance.net/saifuxui">
 <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 </p>
+
+
+---
+
+# 🚀 About Me
+
+- 🎨 UI/UX & Graphic Designer turned Frontend Developer
+- 💻 Building modern interfaces using React & GSAP
+- 📱 Currently learning Flutter
+- 🌱 Exploring Firebase & Clean Architecture
+- 🎯 Passionate about Pixel Perfect UI
+- 🇮🇳 India
