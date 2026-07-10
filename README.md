@@ -1,227 +1,136 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=SAIF%20ALI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20•%20Graphic%20Designer%20•%20Frontend%20Developer&descAlignY=60&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:00C6FF&text=Saif%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UI/UX%20Designer%20|%20Frontend%20Developer%20|%20Graphic%20Designer&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&color=00D9FF&lines=UI%2FUX+Designer;Graphic+Designer;Frontend+Developer;React+Developer;Learning+Flutter;GSAP+Animation+Lover;Crafting+Beautiful+Digital+Experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=700&color=00C6FF&lines=UI%2FUX+Designer;Graphic+Designer;Frontend+Developer;React+Developer;GSAP+Animation;Flutter+Learner"/>
 </p>
 
 <h1 align="center">Hey 👋 I'm Saif Ali</h1>
 
-<h3 align="center">
-🎨 UI/UX Designer • 💻 Frontend Developer • 📱 Flutter Learner
-</h3>
+<h3 align="center">UI/UX Designer • Graphic Designer • Frontend Developer</h3>
 
 <p align="center">
-I design beautiful digital experiences with modern UI, smooth animations and clean scalable code.
+  Crafting beautiful, pixel-perfect digital experiences through clean code and creative design.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=madebysaifali&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/madebysaifali?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/madebysaifali?affiliations=OWNER&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=madebysaifali&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/saifuxui21">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:saifuxui21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.behance.net/saifuxui">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
-</a>
-
+  <a href="https://linkedin.com/in/saifuxui21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:saifuxui21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/saifuxui" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎨 UI/UX & Graphic Designer turned Frontend Developer
-- 💻 Building modern interfaces using React & GSAP
-- 📱 Currently learning Flutter
-- 🌱 Exploring Firebase & Clean Architecture
-- 🎯 Passionate about Pixel Perfect UI
-- ⚡ Love Motion Design & Micro Interactions
-- 🇮🇳 India
+- 🎨 **Expertise** in UI/UX Research, Wireframing, and Graphic Design.
+- 💻 Building highly interactive, modern web interfaces using **React & GSAP**.
+- 📱 Stepping into mobile app development by mastering **Flutter & Dart**.
+- 🌱 Deeply exploring **Firebase & Clean Architecture** for scalable products.
+- 🎯 Passionate about **Pixel-Perfect UI** and smooth user micro-interactions.
+- 🇮🇳 Based in India
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack & Tools
 
-<table>
-
-<tr>
-
-<td width="140">
-
-### Frontend
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Styling
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Mobile
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Design
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Tools
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madebysaifali&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebysaifali&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="left">
+  <strong>🎨 Design UI/UX & Graphics:</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Tools" height="65"/>
 </p>
 
-<p align="center">
+<br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=madebysaifali&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <strong>💻 Frontend Development:</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular" alt="Frontend Engineering" height="65"/>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" alt="Styling Tools" height="65"/>
+</p>
 
+<br>
+
+<p align="left">
+  <strong>📱 Mobile & Other Tools:</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" alt="Mobile and Workflow Tools" height="65"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=madebysaifali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebysaifali&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madebysaifali&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebysaifali&theme=tokyonight&hide_border=true"/>
+</p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=madebysaifali&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎨 UI Dashboard
-
-Modern Admin Dashboard built using React & Tailwind CSS.
-
-🟢 React • Tailwind • Responsive
-
-🔗 https://github.com/madebysaifali/PROJECT1
+### 🎨 UI Dashboard
+Modern Admin Dashboard built using React & Tailwind CSS. Focuses on minimal layouts and premium user flows.
+🔗 [View Project](https://github.com/madebysaifali/PROJECT1)
 
 ---
 
-## 🌐 Portfolio Website
-
-Beautiful Portfolio using React & GSAP.
-
-🟢 React • GSAP • Animation
-
-🔗 https://github.com/madebysaifali/PROJECT2
+### 🌐 Portfolio Website
+Highly interactive, animated, and creative portfolio crafted with React & GSAP.
+🔗 [View Project](https://github.com/madebysaifali/PROJECT2)
 
 ---
 
-## 📱 Flutter App
-
-Flutter UI & Firebase Practice.
-
-🟢 Flutter • Firebase
-
-🔗 https://github.com/madebysaifali/PROJECT3
+### 📱 Flutter App
+Exploring mobile experiences by building clean, beautiful, and fluid Flutter UI components.
+🔗 [View Project](https://github.com/madebysaifali/PROJECT3)
 
 ---
 
 # 🌱 Currently Learning
 
-```text
-Flutter              ███████████████░░░ 80%
+✔ Flutter & Dart 
 
-Firebase             ████████████░░░░░░ 65%
+✔ Firebase Integration
 
-Clean Architecture   █████████░░░░░░░░ 50%
+✔ Clean Architecture
 
-REST APIs            █████████████░░░░ 70%
-```
+✔ RESTful APIs
 
 ---
 
 # 💡 Quote
 
-> **"Good design attracts users. Great UX keeps them."**
+> "Good design attracts users. Great UX keeps them."
 
 ---
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to connect. ⭐
+</p>
