@@ -178,25 +178,16 @@ Clean Architecture   █████████░░░░░░░░░░�
 ---
 
 <h2 align="center">
-
 Thanks for visiting ❤️
-
 </h2>
 
 <p align="center">
-
-If you like my work,
-
-⭐ Star my repositories
-
-🤝 Connect with me on LinkedIn
-
+If you like my work,<br>
+⭐ Star my repositories<br>
+🤝 Connect with me on LinkedIn<br>
 🎨 Check my Behance
-
 </p>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=120&section=footer"/>
-
 </p>
