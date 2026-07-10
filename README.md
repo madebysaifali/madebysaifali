@@ -176,7 +176,6 @@ State Management     ██████████████░░░░░�
 Clean Architecture   █████████░░░░░░░░░░░ 50%
 
 ---
----
 
 <h2 align="center">
 Thanks for visiting ❤️
@@ -192,3 +191,5 @@ If you like my work,<br>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=120&section=footer"/>
 </p>
+
+---
