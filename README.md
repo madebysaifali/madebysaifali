@@ -176,6 +176,7 @@ State Management     ██████████████░░░░░�
 Clean Architecture   █████████░░░░░░░░░░░ 50%
 
 ---
+---
 
 <h2 align="center">
 Thanks for visiting ❤️
