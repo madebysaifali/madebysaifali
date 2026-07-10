@@ -42,186 +42,135 @@ I design beautiful digital experiences with modern UI, smooth animations and cle
 
 # 🚀 About Me
 
-- 🎨 UI/UX & Graphic Designer turned Frontend Developer
-- 💻 Building modern interfaces using React & GSAP
-- 📱 Currently learning Flutter
-- 🌱 Exploring Firebase & Clean Architecture
-- 🎯 Passionate about Pixel Perfect UI
-- ⚡ Love Motion Design & Micro Interactions
-- 🇮🇳 India
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+I'm **Saif Ali**, a passionate **UI/UX Designer**, **Graphic Designer**, and **Frontend Developer** from **India 🇮🇳**.
+
+I enjoy transforming ideas into modern digital products that are not only visually appealing but also fast, responsive, and user-friendly.
+
+### What I do
+
+🎨 Design beautiful UI & User Experiences
+
+💻 Build responsive websites using React
+
+✨ Create smooth GSAP animations
+
+📱 Learning Flutter for cross-platform apps
+
+⚡ Convert Figma designs into Pixel Perfect Websites
+
+🎯 Focus on Performance, Accessibility & Clean Code
+
+☕ Coffee + Music + Code = Perfect Day
 
 ---
 
-# 💻 Tech Stack
+# 💡 My Design Philosophy
 
-<table>
+> "Design is not just how it looks.
+> Design is how it works, feels and tells a story."
 
-<tr>
+---
 
-<td width="140">
+# ⚡ Workflow
 
-### Frontend
+Research 🔍
+↓
+Wireframe ✏️
+↓
+UI Design 🎨
+↓
+Prototype ⚡
+↓
+Development 💻
+↓
+Animation ✨
+↓
+Testing 🧪
+↓
+Deployment 🚀
 
-</td>
+---
 
-<td>
+# 💻 Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular"/>
+<div align="center">
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Styling
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Mobile
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Design
-
-</td>
-
-<td>
-
+### 🎨 Design
 <img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
 
-</td>
+---
 
-</tr>
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular"/>
 
-<tr>
+---
 
-<td>
+### 🎨 Styling
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass"/>
 
-### Tools
+---
 
-</td>
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
 
-<td>
+---
 
+### ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🎨 Design Expertise
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madebysaifali&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebysaifali&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=madebysaifali&theme=tokyonight&hide_border=true"/>
-
-</p>
+🟣 UI Design  
+🟣 UX Design  
+🟣 Wireframing  
+🟣 Prototyping  
+🟣 User Flow  
+🟣 Design Systems  
+🟣 Typography  
+🟣 Color Theory  
+🟣 Branding  
+🟣 Social Media Design  
 
 ---
 
-# 📈 Contribution Graph
+# 🚀 What I Can Build
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madebysaifali&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎨 UI Dashboard
-
-Modern Admin Dashboard built using React & Tailwind CSS.
-
-🟢 React • Tailwind • Responsive
-
-🔗 https://github.com/madebysaifali/PROJECT1
+✔ Landing Pages  
+✔ Admin Dashboards  
+✔ Portfolio Websites  
+✔ UI/UX Case Studies  
+✔ Mobile App UI  
+✔ Design Systems  
+✔ GSAP Animations  
+✔ Responsive Websites  
+✔ Figma to React  
+✔ WordPress Websites  
 
 ---
 
-## 🌐 Portfolio Website
+# 🎯 Current Focus
 
-Beautiful Portfolio using React & GSAP.
-
-🟢 React • GSAP • Animation
-
-🔗 https://github.com/madebysaifali/PROJECT2
-
----
-
-## 📱 Flutter App
-
-Flutter UI & Firebase Practice.
-
-🟢 Flutter • Firebase
-
-🔗 https://github.com/madebysaifali/PROJECT3
+🚀 Building Modern React Projects  
+🎨 Creating Premium UI Designs  
+📱 Learning Flutter  
+🔥 Improving GSAP Animations  
+⚡ Writing Cleaner Code Everyday  
 
 ---
 
 # 🌱 Currently Learning
 
 ```text
-Flutter              ███████████████░░░ 80%
-
-Firebase             ████████████░░░░░░ 65%
-
-Clean Architecture   █████████░░░░░░░░ 50%
-
-REST APIs            █████████████░░░░ 70%
-```
-
----
-
-# 💡 Quote
-
-> **"Good design attracts users. Great UX keeps them."**
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+UI Design            ████████████████████ 100%
+Animations           ████████████████████ 95%
+Flutter              ███████████████████░░ 90%
+Firebase             █████████████████░░░ 80%
+REST API             █████████████████░░░ 80%
+State Management     ██████████████░░░░░░ 70%
+Clean Architecture   █████████░░░░░░░░░░░ 50%
