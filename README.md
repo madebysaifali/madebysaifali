@@ -44,9 +44,9 @@ I design beautiful digital experiences with modern UI, smooth animations and cle
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I'm **Saif Ali**, a passionate **UI/UX Designer**, **Graphic Designer**, and **Frontend Developer** from **India 🇮🇳**.
+I'm **Saif Ali**, a **UI/UX Designer**, **Graphic Designer**, and **Frontend Developer** based in **India 🇮🇳**.
 
-I enjoy transforming ideas into modern digital products that are not only visually appealing but also fast, responsive, and user-friendly.
+I specialize in turning complex ideas into clean, functional, and visually striking digital products. My focus is always on creating responsive, high-performance web experiences that align perfectly with user needs and business goals.
 
 ### What I do
 
