@@ -46,3 +46,96 @@ Crafting beautiful digital experiences through clean code and creative design.
 - 🌱 Exploring Firebase & Clean Architecture
 - 🎯 Passionate about Pixel Perfect UI
 - 🇮🇳 India
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,sass,flutter,dart,firebase,figma,ps,ai,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madebysaifali&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebysaifali&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madebysaifali&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madebysaifali&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🚀 Featured Projects
+
+### 🎨 UI Dashboard
+Modern Admin Dashboard using React & Tailwind CSS
+
+🔗 https://github.com/madebysaifali/PROJECT1
+
+---
+
+### 🌐 Portfolio Website
+
+Animated Portfolio using React & GSAP
+
+🔗 https://github.com/madebysaifali/PROJECT2
+
+---
+
+### 📱 Flutter App
+
+Learning Flutter by building beautiful UI.
+
+🔗 https://github.com/madebysaifali/PROJECT3
+
+---
+
+# 🌱 Currently Learning
+
+✔ Flutter
+
+✔ Firebase
+
+✔ Clean Architecture
+
+✔ REST APIs
+
+---
+
+# 💡 Quote
+
+> Good design attracts users. Great UX keeps them.
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
+
+
+
+
