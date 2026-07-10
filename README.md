@@ -16,4 +16,21 @@ UI/UX Designer • Frontend Developer • Flutter Learner
 Crafting beautiful digital experiences through clean code and creative design.
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=madebysaifali&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
+
+<p align="center">
+<a href="https://linkedin.com/in/saifuxui21">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saifuxui21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://behance.net/USERNAME">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+</p>
